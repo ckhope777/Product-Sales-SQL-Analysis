@@ -19,19 +19,19 @@ Leadership requires a clear understanding of customer trends, revenue performanc
 
 **2. SQL Analysis**
  - Customer Insights:
-  - Distribution of customers by state.
-  - Average feedback score by quarter.
-  - Whether dissatisfaction is increasing over time.
-  - Most preferred vehicle makers overall and by state.
+   - Distribution of customers by state.
+   - Average feedback score by quarter.
+   - Whether dissatisfaction is increasing over time.
+   - Most preferred vehicle makers overall and by state.
 
  - Revenue & Orders:
-  - Trend of orders across quarters.
-  - Quarter-over-quarter % change in revenue.
-  - Combined view of revenue and orders per quarter.
+   - Trend of orders across quarters.
+   - Quarter-over-quarter % change in revenue.
+   - Combined view of revenue and orders per quarter.
 
  - Shipping & Discounts:
-  - Average discounts by credit card type.
-  - Average shipping time by quarter.
+   - Average discounts by credit card type.
+   - Average shipping time by quarter.
 
 **3.Visualization & Reporting**
  - SQL query outputs were visualized (e.g., bar charts, line graphs).
