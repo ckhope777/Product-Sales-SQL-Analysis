@@ -36,6 +36,7 @@ Leadership requires a clear understanding of customer trends, revenue performanc
 **3.Visualization & Reporting**
  - SQL query outputs were visualized (e.g., bar charts, line graphs).
  - Final insights summarized into a Quarterly Business Report with actionable recommendations.
+ - Visualisation was achieved by using python and jupyter notebook environment 
 
 ## Results & Insights ##
  - Customers:
