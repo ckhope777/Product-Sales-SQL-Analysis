@@ -52,3 +52,14 @@ Leadership requires a clear understanding of customer trends, revenue performanc
  - Shipping & Discounts:
    - Credit card type influenced average discounts offered.
    - Shipping times varied by quarter, suggesting operational inefficiencies in certain periods.
+  
+   ## Tools Used ##
+    - python
+    - MySQL
+    - Libraries used:
+       - pandas
+       - numpy
+       - matplotlib
+       - seaborn
+       - dataframe_image
+     - Jupyter Notebook Environment 
