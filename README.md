@@ -1,14 +1,6 @@
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=mysql&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Language-Jupyter%20Notebook-orange?logo=jupyter&logoColor=white)
-
-
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Library-Pandas-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-11557c?logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Library-Seaborn-76B900?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/Library-NumPy-013243?logo=numpy&logoColor=white)
-
-
 
 # Product-Sales-SQL-Analysis
 This project uses MySQL to analyze the sales, customer feedback, and operational performance of New-Wheels, a vehicle sales company facing a steady decline in new customers and revenue. The dataset was originally unstructured, dumped as flat files. Using SQL queries, the data was organized and analyzed to extract business insights.
