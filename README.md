@@ -39,15 +39,15 @@ Leadership requires a clear understanding of customer trends, revenue performanc
 
 ## Results & Insights ##
  - Customers:
-  - Certain states dominate the customer base.
-  - Customer satisfaction has trended downward, with increasing percentages of “Poor” and “Very Poor” feedback over time.
-  - Top 5 vehicle makers account for the majority of customer purchases, with preferences varying significantly by state.
+   - Certain states dominate the customer base.
+   - Customer satisfaction has trended downward, with increasing percentages of “Poor” and “Very Poor” feedback over time.
+   - Top 5 vehicle makers account for the majority of customer purchases, with preferences varying significantly by state.
 
  - Revenue & Orders:
-  - Orders and revenue showed quarter-to-quarter fluctuations.
-  - Quarter-over-quarter revenue growth revealed both positive spikes and alarming declines.
-  - Sales dip is closely tied to both reduced order volumes and poor customer retention.
+   - Orders and revenue showed quarter-to-quarter fluctuations.
+   - Quarter-over-quarter revenue growth revealed both positive spikes and alarming declines.
+   - Sales dip is closely tied to both reduced order volumes and poor customer retention.
 
 Shipping & Discounts:
- - Credit card type influenced average discounts offered.
- - Shipping times varied by quarter, suggesting operational inefficiencies in certain periods.
+  - Credit card type influenced average discounts offered.
+  - Shipping times varied by quarter, suggesting operational inefficiencies in certain periods.
