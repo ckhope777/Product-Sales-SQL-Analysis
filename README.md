@@ -48,6 +48,6 @@ Leadership requires a clear understanding of customer trends, revenue performanc
    - Quarter-over-quarter revenue growth revealed both positive spikes and alarming declines.
    - Sales dip is closely tied to both reduced order volumes and poor customer retention.
 
-Shipping & Discounts:
-  - Credit card type influenced average discounts offered.
-  - Shipping times varied by quarter, suggesting operational inefficiencies in certain periods.
+ - Shipping & Discounts:
+   - Credit card type influenced average discounts offered.
+   - Shipping times varied by quarter, suggesting operational inefficiencies in certain periods.
