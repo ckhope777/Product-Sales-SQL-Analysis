@@ -58,12 +58,12 @@ Leadership requires a clear understanding of customer trends, revenue performanc
    - Shipping times varied by quarter, suggesting operational inefficiencies in certain periods.
   
    ## Tools Used ##
-    - python
+    - python ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
     - MySQL
     - Libraries used:
-       - pandas
+       - pandas ![Pandas](https://img.shields.io/badge/Library-Pandas-150458?logo=pandas&logoColor=white)
        - numpy
-       - matplotlib
-       - seaborn
+       - matplotlib ![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-11557c?logo=plotly&logoColor=white)
+       - seaborn ![Seaborn](https://img.shields.io/badge/Library-Seaborn-76B900?logo=python&logoColor=white)
        - dataframe_image
      - Jupyter Notebook Environment 
